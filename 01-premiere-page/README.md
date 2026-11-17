@@ -42,14 +42,14 @@ Aucun ! Ce dossier ne contient que cette consigne. C'est vous qui créez le fich
 
 ## Critères de réussite
 
-- [ ] Le fichier s'appelle `index.html` et se trouve dans le dossier `01-premiere-page`.
-- [ ] La première ligne est `<!DOCTYPE html>`.
-- [ ] La balise `<html>` a l'attribut `lang="fr"`.
-- [ ] Le `<head>` contient `meta charset`, `meta viewport` et un `<title>` personnalisé.
-- [ ] Le `<body>` contient exactement un `<h1>` et au moins un `<p>`.
-- [ ] Chaque balise ouverte est fermée (sauf `<meta>`, qui n'a pas de balise fermante).
-- [ ] Le code est indenté : chaque balise « enfant » est décalée de 2 espaces par rapport à son « parent ».
-- [ ] Les accents s'affichent correctement dans le navigateur.
+- [ x] Le fichier s'appelle `index.html` et se trouve dans le dossier `01-premiere-page`.
+- [ x] La première ligne est `<!DOCTYPE html>`.
+- [x ] La balise `<html>` a l'attribut `lang="fr"`.
+- [x ] Le `<head>` contient `meta charset`, `meta viewport` et un `<title>` personnalisé.
+- [ x] Le `<body>` contient exactement un `<h1>` et au moins un `<p>`.
+- [ x] Chaque balise ouverte est fermée (sauf `<meta>`, qui n'a pas de balise fermante).
+- [ x] Le code est indenté : chaque balise « enfant » est décalée de 2 espaces par rapport à son « parent ».
+- [ x] Les accents s'affichent correctement dans le navigateur.
 
 ## Indices
 

@@ -39,14 +39,14 @@ Ouvrez `index.html` dans le navigateur **avant** de commencer : tout le texte es
 
 ## Critères de réussite
 
-- [ ] Il y a un seul `<h1>` dans la page.
-- [ ] Les niveaux de titres se suivent sans saut : pas de `<h3>` directement après le `<h1>`.
-- [ ] Il y a 4 `<h2>` et 4 `<h3>`.
-- [ ] Plus aucun texte n'est « libre » dans le `<body>` : tout est dans une balise.
-- [ ] *Zea mays* est dans une balise `<i>`.
-- [ ] Il y a au moins deux `<strong>` et un `<em>`.
-- [ ] `<br>` n'est utilisé qu'une seule fois, dans les crédits (et jamais pour « faire de l'espace »).
-- [ ] Le code est indenté et commenté.
+- [x ] Il y a un seul `<h1>` dans la page.
+- [ x] Les niveaux de titres se suivent sans saut : pas de `<h3>` directement après le `<h1>`.
+- [x ] Il y a 4 `<h2>` et 4 `<h3>`.
+- [ x] Plus aucun texte n'est « libre » dans le `<body>` : tout est dans une balise.
+- [ x] *Zea mays* est dans une balise `<i>`.
+- [ x] Il y a au moins deux `<strong>` et un `<em>`.
+- [ x] `<br>` n'est utilisé qu'une seule fois, dans les crédits (et jamais pour « faire de l'espace »).
+- [x ] Le code est indenté et commenté.
 
 ## Indices
 
