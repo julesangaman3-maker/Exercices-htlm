@@ -72,23 +72,23 @@ Les numéros correspondent aux commentaires `TODO` dans les fichiers.
 
 | Page de départ | Lien | Destination attendue | Fonctionne ? |
 |---|---|---|---|
-| `index.html` | Nos cultures | `cultures.html` | |
-| `index.html` | Nous contacter | `pages/contact.html` | |
-| `index.html` | Site de la FAO | fao.org (nouvel onglet) | |
-| `cultures.html` | Retour à l'accueil | `index.html` | |
-| `cultures.html` | Article Wikipédia | wikipedia.org | |
-| `pages/contact.html` | Retour à l'accueil | `index.html` | |
-| `pages/contact.html` | Nos cultures | `cultures.html` | |
-| `pages/contact.html` | Adresse e-mail | logiciel de messagerie | |
+| `index.html` | Nos cultures | `cultures.html` | OUI|
+| `index.html` | Nous contacter | `pages/contact.html` |OUI |
+| `index.html` | Site de la FAO | fao.org (nouvel onglet) |OUI |
+| `cultures.html` | Retour à l'accueil | `index.html` |OUI |
+| `cultures.html` | Article Wikipédia | wikipedia.org |OUI |
+| `pages/contact.html` | Retour à l'accueil | `index.html` | OUI|
+| `pages/contact.html` | Nos cultures | `cultures.html` |OUI |
+| `pages/contact.html` | Adresse e-mail | logiciel de messagerie |OUI |
 
 ## Critères de réussite
 
-- [ ] Les 8 liens du tableau fonctionnent.
-- [ ] Tous les liens internes utilisent des chemins **relatifs** (aucun `C:\…` ni `file:///…`).
-- [ ] Le lien de retour de `pages/contact.html` utilise `../`.
-- [ ] Le lien vers la FAO s'ouvre dans un nouvel onglet et contient `rel="noopener"`.
-- [ ] Le lien e-mail commence par `mailto:`.
-- [ ] Plus aucun lien « cliquez ici » : chaque texte de lien a du sens tout seul.
+- [ X] Les 8 liens du tableau fonctionnent.
+- [ X] Tous les liens internes utilisent des chemins **relatifs** (aucun `C:\…` ni `file:///…`).
+- [ X] Le lien de retour de `pages/contact.html` utilise `../`.
+- [ X] Le lien vers la FAO s'ouvre dans un nouvel onglet et contient `rel="noopener"`.
+- [X ] Le lien e-mail commence par `mailto:`.
+- [X] Plus aucun lien « cliquez ici » : chaque texte de lien a du sens tout seul.
 
 ## Indices
 
