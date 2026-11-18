@@ -61,13 +61,13 @@ Les numéros correspondent aux commentaires `TODO` dans `index.html`.
 
 ## Critères de réussite
 
-- [ ] Les 4 images s'affichent.
-- [ ] Chaque `<img>` a un attribut `alt` utile (pas de « image de… », pas de nom de fichier).
-- [ ] Chaque `<img>` a un `width` et un `height` qui respectent les proportions (4 / 3).
-- [ ] Le chemin du maïs passe par le sous-dossier `cereales`.
-- [ ] La tomate est dans une `<figure>` avec une `<figcaption>`.
-- [ ] Un clic sur la mangue ouvre l'article Wikipédia.
-- [ ] Tous les chemins sont relatifs.
+- [ x] Les 4 images s'affichent.
+- [ x] Chaque `<img>` a un attribut `alt` utile (pas de « image de… », pas de nom de fichier).
+- [ x] Chaque `<img>` a un `width` et un `height` qui respectent les proportions (4 / 3).
+- [ x] Le chemin du maïs passe par le sous-dossier `cereales`.
+- [ x] La tomate est dans une `<figure>` avec une `<figcaption>`.
+- [ x] Un clic sur la mangue ouvre l'article Wikipédia.
+- [ x] Tous les chemins sont relatifs.
 
 ## Indices
 
